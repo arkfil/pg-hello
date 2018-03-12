@@ -10,8 +10,9 @@
 		John Brown
 	</author>
 	<platform name="android" />
-	
+
 	<plugin name="cordova-plugin-device" spec="2.0.1" />
 	<plugin name="cordova-plugin-dialogs" spec="2.0.1" />
-
+  <plugin name="org.apache.cordova.network-information" spec="0.2.12" source="pgb" />
+  
 </widget>
